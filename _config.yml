@@ -6,13 +6,13 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "zach96guan.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: Zach96Guan #if your site has a twitter account, enter it here
+site-twitter: GuanZach96 #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Zehao Guan
 author-img: david-freeman.jpg
 about-author: Life should not be a journey to the grave.
-social-twitter: Zach96Guan
+social-twitter: GuanZach96
 social-facebook: zach96guan
 social-github: zach96guan
 social-linkedin: zachguan
