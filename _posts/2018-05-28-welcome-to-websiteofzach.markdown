@@ -6,5 +6,5 @@ description: This is personal website of Zehao Guan! # Add post description (opt
 img:  # Add image post (optional)
 ---
 
-Welcome to personal website of Zach! My resume link is attached here. <\br>
+Welcome to personal website of Zach! My resume link is attached here. </br>
 [Zach's Resume](https://github.com/zach96guan/zach96guan.github.io/blob/master/assets/img/resume.pdf)
