@@ -1,4 +1,4 @@
-title: Hello, world! I'm Zehao (Zach) Guan.
+title: Personal Website of Zach G.
 description: > # this means to ignore newlines until "baseurl:"
   Life should not be a journey to the grave.
 permalink: ':title/'
@@ -9,7 +9,7 @@ site-twitter: GuanZach96 #if your site has a twitter account, enter it here
 # Author Settings
 author: Zehao (Zach) Guan
 author-img: profile.jpg
-about-author: I am a first-year graduate student pursuing my Master degree in the MSAII program. I have hands-on experience on software development and implementing AI techniques to solve practical projects.
+about-author: I am a first-year graduate student pursuing my Master degree in the MSAII program at CMU. I have hands-on experience on software development and implementing AI techniques to solve practical projects.
 social-twitter: GuanZach96
 social-facebook: zach96guan
 #social-instagram: zach96guan
