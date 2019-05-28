@@ -1,8 +1,6 @@
 title: Hello, world! I'm Zehao (Zach) Guan.
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a first-year graduate student pursuing my Master degree in the MSAII program. I have hands-on experience on software development and implementing AI techniques to solve practical projects.
 permalink: ':title/'
 baseurl: "zach96guan.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,8 +11,8 @@ author: Zehao Guan
 author-img: david-freeman.jpg
 about-author: Life should not be a journey to the grave.
 social-twitter: GuanZach96
-#social-facebook: zach96guan
-social-instagram: zach96guan
+social-facebook: zach96guan
+#social-instagram: zach96guan
 social-github: zach96guan
 social-linkedin: zach-guan
 social-email: zehaog@cs.cmu.edu
