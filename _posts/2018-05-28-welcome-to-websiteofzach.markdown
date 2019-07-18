@@ -8,4 +8,4 @@ img:  # Add image post (optional)
 
 Welcome to personal website of Zach! My resume link is attached here.
 
-[Zach's Resume](https://github.com/zach96guan/zach96guan.github.io/blob/master/assets/img/resume.pdf)
+[Resume](https://github.com/zach96guan/zach96guan.github.io/blob/master/assets/img/resume.pdf)
